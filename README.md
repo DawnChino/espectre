@@ -7,6 +7,12 @@
 [![Python coverage](https://badgen.net/https/github.com/francescopace/espectre/releases/download/snapshot/coverage-python.json?cache=300)](https://github.com/francescopace/espectre/actions/workflows/ci.yml?query=branch%3Amain)
 [![Web coverage](https://badgen.net/https/github.com/francescopace/espectre/releases/download/snapshot/coverage-web.json?cache=300)](https://github.com/francescopace/espectre/actions/workflows/ci.yml?query=branch%3Amain)
 
+
+不用摄像头，一块 ESP32 就能感知家里动静？开源做到了
+https://mp.weixin.qq.com/s/Ph2b9xacdiwlgyCWiWWuIg
+
+
+
 <h1>ESPectre <img src="docs/web/assets/images/brand/espectre-logo.svg" alt="ESPectre logo" width="40" align="absmiddle" /></h1>
 
 **Turn an ESP32 into a private, local Wi-Fi motion sensor.**
